@@ -1,0 +1,15 @@
+Agata,FN,FEM_KT_C
+Alicja,FNj
+Agnieszka,FNk,FEM_KT_C
+Asia,FNsi
+Beata,FN,FEM_KT_C
+Ewa
+Gosia,FNsi
+Izabela,FNj
+Julia,FNj
+Karolina
+Klara,FNr
+Magda,FN,FEM_D_DZ
+Marta,FN,FEM_KT_C
+Paulina
+Zofia,FNj

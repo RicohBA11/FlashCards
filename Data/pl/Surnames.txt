@@ -1,0 +1,9 @@
+Barański
+Bartowski
+Kowalski
+Nowak,SNk
+Kowalczyk,SNk
+Kamiński
+Woźniak,SNk
+Mazur,SNr
+Lipski
